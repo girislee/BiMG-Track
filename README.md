@@ -27,17 +27,6 @@ Extensive experiments on LasHeR, RGBT234, RGBT210, and VTUAV demonstrate that Bi
 
 ---
 
-✨ Highlights
-
-- Unified end-to-end RGB-T tracking framework.
-- Bidirectional parallel temporal modeling for cross-modal spatio-temporal aggregation.
-- Cross-modal reliability fusion in the temporal latent space.
-- Dynamic sparse masking for redundancy suppression.
-- Modality-specific dual-path attention: RGB → IPA, TIR → CPA.
-- Strong performance on four public RGB-T tracking benchmarks.
-
----
-
 🧠 Method Overview
 
 BiMG-Track adopts a dual-stream collaborative architecture for RGB and TIR modalities.
